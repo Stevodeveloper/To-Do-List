@@ -1,12 +1,37 @@
-# React + Vite
+📝 React To-Do List App
+A simple and elegant task management app built with React and React Bootstrap. This to-do list lets users add, check off, and delete tasks — while visually tracking their completion progress using a dynamic progress bar.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+✅ Add Tasks: Enter and add tasks using the input or by pressing Enter.
 
-Currently, two official plugins are available:
+📦 Track Completion: Each task has a checkbox to mark as done.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📊 Progress Indicator: A progress bar updates in real time as you complete tasks.
 
-## Expanding the ESLint configuration
+🗑️ Delete Tasks: Remove any task instantly.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔍 Search Bar UI: Modular search bar component included.
+
+💾 Local Storage Ready (optional): Easily extendable to persist data between reloads.
+
+🛠️ Technologies Used
+React
+
+React Bootstrap
+
+JavaScript (ES6+)
+
+CSS
+
+🧠 Learning Focus
+This project is great for practicing:
+
+useState and useEffect
+
+Controlled components in React
+
+Array state updates
+
+Conditional rendering
+
+Basic UI composition with Bootstrap
